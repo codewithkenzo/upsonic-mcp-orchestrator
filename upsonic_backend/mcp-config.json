@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "description": "Allows reading, writing, and listing files within the project.",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/home/kenzo/Documents/Projects/upsonic-beta2/" 
+      ],
+      "env": {}
+    }
+  }
+}

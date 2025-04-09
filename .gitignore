@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+upsonic_backend/.venv/
+
+# Environment variables
+.env
+upsonic_backend/.env
+
+# IDE specific
+.idea/
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+upsonic_backend/logs/
+*.log 
